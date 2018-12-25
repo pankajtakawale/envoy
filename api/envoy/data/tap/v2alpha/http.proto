@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package envoy.data.tap.v2alpha;
+
+// fixfix
+message HttpBufferedTrace {
+}
